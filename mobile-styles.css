@@ -162,23 +162,23 @@
   }
 
   .question-process {
-    height: 450px;
+    height: 500px;
   }
 
   .logo-process {
-    height: 625px;
-  }
-
-  .website-process {
-    height: 610px;
-  }
-
-  .video-process {
     height: 700px;
   }
 
+  .website-process {
+    height: 650px;
+  }
+
+  .video-process {
+    height: 750px;
+  }
+
   .notebook-process {
-    height: 550px;
+    height: 600px;
   }
 
   .question-process, .logo-process, .video-process, .website-process, .notebook-process {
