@@ -275,19 +275,19 @@
   }
 
   .comp-video {
-    height: 1800px;
+    height: 1300px;
   }
 
   .color-video {
-    height: 1700px;
+    height: 1200px;
   }
 
   .type-video {
-    height: 1750px;
+    height: 1250px;
   }
 
   .fail-video {
-    height: 1800px;
+    height: 1300px;
   }
 
   .comp-video, .color-video, .type-video, .fail-video {
