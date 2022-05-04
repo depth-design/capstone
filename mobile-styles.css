@@ -305,7 +305,7 @@
 
 }
 
-@media only screen and (min-width: 451px) and (max-width: 1200px) {
+@media only screen and (min-width: 550px) and (max-width: 1200px) {
 
   .icon-container {
     margin-left: 60px;
