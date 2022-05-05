@@ -1,4 +1,4 @@
-@media only screen and (min-width: 480px) and (max-width: 1200px) {
+@media only screen and (min-width: 500px) and (max-width: 1200px) {
 
   .icon-container {
     margin-left: 60px;
@@ -277,6 +277,7 @@
   .comp-video, .color-video, .type-video, .fail-video {
     justify-content: center;
     flex-direction: column;
+    height: 1300px;
   }
 
   .comp-video .video-container, .color-video .video-container, .type-video .video-container, .fail-video .video-container {
